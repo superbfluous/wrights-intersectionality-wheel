@@ -1,2 +1,1 @@
-# wrights-intersectionality-wheel
-Wright’s Intersectionality Wheel
+# Wright's Intersectionality Wheel
